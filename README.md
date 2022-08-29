@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Ciachula/Ciachula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Portoflio Projects
 - 🌱 I’m currently learning SQL | Tableu | PowerBI | Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Email me at: **kasperczak.bartoszl@gmail.com**
+
+
+<!--
+**Ciachula/Ciachula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
