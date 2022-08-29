@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Portoflio Projects
 - 🌱 I’m currently learning SQL | Tableau | PowerBI | Python
 - 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/Ciachula/Portfolio)
-- 📫 Email me at: **kasperczak.bartosz@gmail.com**
+- 📫 Email me at: ****
 
 
 <h3 align="left">Connect with me:</h3>
