@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" alt="bi" width="60" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
