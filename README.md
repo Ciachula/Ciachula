@@ -2,7 +2,7 @@
 <h3 align="center">Self-learning student to start path to a career in data analytics.</h3>
 
 - 🔭 I’m currently working on Portoflio Projects
-- 🌱 I’m currently learning SQL | Tableu | PowerBI | Python
+- 🌱 I’m currently learning SQL | Tableau | PowerBI | Python
 - 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/Ciachula/Portfolio)
 - 📫 Email me at: **kasperczak.bartosz@gmail.com**
 
