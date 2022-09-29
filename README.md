@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Bartek</h1>
 <h3 align="center">Self-learning student to start path to a career in data analytics.</h3>
 
-- :memo: I’m currently learning: Python and DAX
+- :memo: I’m currently learning: PowerBI - DAX
 - :book: Taught myself VBA, SQL, Power BI and Tableau
 - 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/Ciachula/Portfolio)
 - 📫 Email me at: kasperczakbartosz.bi@gmail.com
