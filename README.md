@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Bartek</h1>
 <h3 align="center">Microsoft Certified Power BI Data Analyst</h3>
 
-- :memo: I’m currently learning: Python (python, matplotlib, seaborn)
+- :memo: I’m currently learning: Python (pandas, matplotlib, seaborn)
 - :book: Taught myself VBA, SQL, Power BI, DAX and Tableau
 - 🌱 My **Portfolio Projects** are in: [Projects Repo.](https://github.com/Ciachula/Portfolio)
 - 📫 Email me at: kasperczakbartosz.bi@gmail.com
